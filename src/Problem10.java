@@ -30,7 +30,6 @@ public class Problem10
             {
                 state=1;
             }else if(count==1)
-            
                 System.out.print("You have entered " +count +" word so far.  ");
             else
                 System.out.print("You have entered " +count +" words so far.  ");
